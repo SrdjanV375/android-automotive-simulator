@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Infotainment Simulator</string>
+    <string name="speed_fmt">Speed: %1$d km/h</string>
+    <string name="battery_fmt">Battery: %1$d%%</string>
+    <string name="vehicle_position">Vehicle position</string>
+    <string name="destination">Destination</string>
+    <string name="battery_100">Battery: 100%</string>
+    <string name="speed_0_km_h">Speed: 0 km/h</string>
+    <string name="speed">"Speed: "</string>
+    <string name="battery">"Battery: "</string>
+</resources>
